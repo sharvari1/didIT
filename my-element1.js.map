@@ -1,0 +1,1 @@
+{"version":3,"file":"my-element1.js","sourceRoot":"","sources":["src/my-element1.ts"],"names":[],"mappings":";;;;;;AAAA,OAAO,EAAC,UAAU,EAAE,IAAI,EAAE,aAAa,EAAC,MAAM,aAAa,CAAC;AAG5D,IAAa,UAAU,GAAvB,MAAa,UAAW,SAAQ,UAAU;IACtC,MAAM;QACF,OAAO,IAAI,CAAC,6BAA6B,CAAA;IAC7C,CAAC;CACJ,CAAA;AAJY,UAAU;IADtB,aAAa,CAAC,aAAa,CAAC;GAChB,UAAU,CAItB;SAJY,UAAU"}
